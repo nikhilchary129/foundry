@@ -1,0 +1,8 @@
+fundmetest:testAddsFunderToarrayofFunder() (gas: 99712)
+fundmetest:testFundUpadtesFundedDS() (gas: 99453)
+fundmetest:testFundWithoutETH() (gas: 22923)
+fundmetest:testMinimumDollarIsFive() (gas: 5405)
+fundmetest:testOwnerIsMsgSender() (gas: 5697)
+fundmetest:testprice() (gas: 10738)
+fundmetest:testwithdrawforsinglefunder() (gas: 84615)
+fundmetest:testwithdrawfrommultiplefunders() (gas: 487624)
